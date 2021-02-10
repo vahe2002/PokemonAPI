@@ -15,7 +15,8 @@ export const PokemonImage = ({ pokemons, onCompleteChange }) => (
     <ul>
         {pokemons.map(pokemon => (
             <li key={pokemon.id}> 
-            <image src= {pokemon.image}></image>
+            <img src={pokemon.images.small} />
+            <p>{pokemon.images.small}</p>
             </li>
         ))}
     </ul>
