@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{DB81E0D8-8323-46DF-B59D-F4A6A82443F6}|Default">
+<<<<<<< HEAD
   <MonoDevelop.Ide.ItemProperties.PokemonBattle PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="PokemonBattle/Controllers/PokemonController.cs">
     <Files>
@@ -17,6 +18,13 @@
         </State>
       </Pad>
     </Pads>
+=======
+  <MonoDevelop.Ide.ItemProperties.PokemonBattle PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokemonBattle/Controllers/PokemonController.cs">
+    <Files>
+      <File FileName="PokemonBattle/Controllers/PokemonController.cs" Line="29" Column="33" />
+    </Files>
+>>>>>>> 244e1fe2d214dd1cf084f1b1f0f78a01b3a16f8e
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

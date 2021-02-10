@@ -33,16 +33,14 @@ namespace PokemonBattle.Controllers
                 firstPokemon = pokeList.ElementAt(r.Next(1, pokeList.Count - 1));
 
 
-
                 secondPokemon = pokeList.ElementAt(r.Next(1, pokeList.Count - 1));
-
-
 
             } while (firstPokemon == secondPokemon);
 
 
 
             return new List<Pokemon> { firstPokemon, secondPokemon };
+
         }
     }
 }

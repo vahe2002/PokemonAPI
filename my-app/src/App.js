@@ -20,6 +20,7 @@ const App = ()  => {
 
   const onClicked = () => {
     console.log("Clicked")
+
   }
 
     if (loading) {
@@ -27,7 +28,7 @@ const App = ()  => {
     }
     return (
       <Fragment>
-        <div class="container">
+        <div className="container">
           <Pokemon pokemons={pokemons} />
           <StartBattle onClicked={onClicked} />
         </div>

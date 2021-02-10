@@ -8,7 +8,7 @@ export const StartBattle = ( props ) => {
     };
     return(
     <Fragment>
-        <button class="battle-btn" onClick={clicked}>Start Battle</button>
+        <button className="battle-btn" onClick={clicked}>Start Battle</button>
     </Fragment>
     )
 };
