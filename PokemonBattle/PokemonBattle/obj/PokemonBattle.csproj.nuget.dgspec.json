@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {}
+    "/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {}
   },
   "projects": {
-    "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {
+    "/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
+        "projectUniqueName": "/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
         "projectName": "PokemonBattle",
-        "projectPath": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
-        "packagesPath": "/Users/erik.difs/.nuget/packages/",
-        "outputPath": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/obj/",
+        "projectPath": "/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
+        "packagesPath": "/Users/valeria.helle/.nuget/packages/",
+        "outputPath": "/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/erik.difs/.nuget/NuGet/NuGet.Config"
+          "/Users/valeria.helle/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
