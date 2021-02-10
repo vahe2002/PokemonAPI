@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erik.difs/Projects/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {}
+    "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {}
   },
   "projects": {
-    "/Users/erik.difs/Projects/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {
+    "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erik.difs/Projects/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
+        "projectUniqueName": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
         "projectName": "PokemonBattle",
-        "projectPath": "/Users/erik.difs/Projects/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
+        "projectPath": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
         "packagesPath": "/Users/erik.difs/.nuget/packages/",
-        "outputPath": "/Users/erik.difs/Projects/PokemonBattle/PokemonBattle/obj/",
+        "outputPath": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/erik.difs/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

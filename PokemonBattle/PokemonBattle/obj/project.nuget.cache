@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ONL5tXOJV10CjANDx9XJLZVO+ojd/KtO4h6HcI3sXMzdhZ0oqk3qzcuupvYBNMWltvzmpVnYCJ1ullfKU6sVwQ==",
+  "dgSpecHash": "WrFoDibJPUzacOr+SWQJzPX5Fi0oen1ElCZLCDznF+FOk4QQe2STJdJUwklBU4ryo8Ozrw4VkjoCZ8wK3RHiUA==",
   "success": true,
-  "projectFilePath": "/Users/erik.difs/Projects/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
+  "expectedPackageFiles": [
+    "/Users/erik.difs/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
