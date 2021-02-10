@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DB81E0D8-8323-46DF-B59D-F4A6A82443F6}|Default">
+  <MonoDevelop.Ide.ItemProperties.PokemonBattle PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokemonBattle/Controllers/PokemonController.cs">
+    <Files>
+      <File FileName="PokemonBattle/Controllers/PokemonController.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PokemonBattle" expanded="True">
+            <Node name="PokemonBattle" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PokemonController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

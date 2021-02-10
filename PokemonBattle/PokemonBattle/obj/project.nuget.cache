@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qiTfZXaD4TroKxL5utypGSjgE1UAymEo2f33ZXvh01UcU5yt1vccos6CbZvj1/u+E2odu06CySHRUZeU8+4j0w==",
+  "dgSpecHash": "RJl8M8R0a0ydZIisG9O2yoHXFGcAZAKXTwSRJu3mN8SH69YZRyPpwrUnH2OYaVIYXIlmi40iTWBdwxclWgpI9w==",
   "success": true,
-  "projectFilePath": "/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
+  "projectFilePath": "/Users/erik.difs/Projects/PokemonAPI/PokemonBattle/PokemonBattle/PokemonBattle.csproj",
   "expectedPackageFiles": [
-    "/Users/valeria.helle/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+    "/Users/erik.difs/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

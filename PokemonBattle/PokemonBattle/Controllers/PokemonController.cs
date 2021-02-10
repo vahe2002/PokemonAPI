@@ -4,9 +4,8 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using PokemonBattle.Dto;
-using PokemonBattle.Models;
 using Newtonsoft.Json;
+using PokemonBattle.Models;
 
 namespace PokemonBattle.Controllers
 {
@@ -25,8 +24,25 @@ namespace PokemonBattle.Controllers
             var json = await response.Content.ReadAsStringAsync();
             var data = JsonConvert.DeserializeObject<PokemonRoot>(json);
 
-            var firstPokemon = data.data;
-            return firstPokemon;
+            var pokeList = data.data;
+            var r = new Random();
+            var firstPokemon = new Pokemon();
+            var secondPokemon = new Pokemon();
+            do
+            {
+                firstPokemon = pokeList.ElementAt(r.Next(1, pokeList.Count - 1));
+
+
+
+                secondPokemon = pokeList.ElementAt(r.Next(1, pokeList.Count - 1));
+
+
+
+            } while (firstPokemon == secondPokemon);
+
+
+
+            return new List<Pokemon> { firstPokemon, secondPokemon };
         }
     }
 }
