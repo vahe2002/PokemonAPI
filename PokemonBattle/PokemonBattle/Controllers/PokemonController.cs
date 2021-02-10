@@ -25,8 +25,25 @@ namespace PokemonBattle.Controllers
             var json = await response.Content.ReadAsStringAsync();
             var data = JsonConvert.DeserializeObject<PokemonRoot>(json);
 
-            var firstPokemon = data.data;
-            return firstPokemon;
+            var pokeList = data.data;
+            var r = new Random();
+            var firstPokemon = new Pokemon();
+            var secondPokemon = new Pokemon();
+            do {
+                firstPokemon = pokeList.ElementAt(r.Next(1, pokeList.Count - 1));
+
+
+
+                secondPokemon = pokeList.ElementAt(r.Next(1, pokeList.Count - 1)); }
+
+
+
+            while (firstPokemon == secondPokemon);
+
+
+
+            return new List<Pokemon> { firstPokemon, secondPokemon };
+            
         }
     }
 }

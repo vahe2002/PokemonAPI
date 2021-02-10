@@ -31,7 +31,6 @@
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/bin/Debug/net5.0/ref/PokemonBattle.dll
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/bin/Debug/net5.0/PokemonBattle.pdb
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/bin/Debug/net5.0/Newtonsoft.Json.dll
-/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/PokemonBattle.csprojAssemblyReference.cache
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/PokemonBattle.GeneratedMSBuildEditorConfig.editorconfig
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/PokemonBattle.AssemblyInfoInputs.cache
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/PokemonBattle.AssemblyInfo.cs
@@ -46,3 +45,4 @@
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/ref/PokemonBattle.dll
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/PokemonBattle.pdb
 /Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/PokemonBattle.genruntimeconfig.cache
+/Users/valeria.helle/Desktop/PokemonAPI/PokemonBattle/PokemonBattle/obj/Debug/net5.0/PokemonBattle.csprojAssemblyReference.cache
