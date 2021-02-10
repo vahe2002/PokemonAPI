@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import React, { Fragment, useState, useEffect } from 'react';
 import { apiClient } from './api/api-client';
-import { PokemonList } from './pokemons/pokemon-list';
+import { PokemonList, PokemonImage } from './pokemons/pokemon-list';
 
 const App = ()  => {
   const [pokemons, setPokemon] = useState([]);
@@ -27,6 +27,7 @@ const App = ()  => {
             <img src={logo} className="App-logo" alt="logo" />
           </header>
           <PokemonList pokemons={pokemons} />
+          <PokemonImage pokemons={pokemons} />
         </div>
       </Fragment>
     );
