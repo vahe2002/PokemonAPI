@@ -6,10 +6,4 @@ export const apiClient = {
     
      return fetch(BASE_URL).then(result => result.json());
   }
-
-  
-
-  
-
-  
 };
